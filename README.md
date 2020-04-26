@@ -1,2 +1,2 @@
-# Jupyter-Notebook　成果物
+# Python　成果物
 Jupyter Notebook
